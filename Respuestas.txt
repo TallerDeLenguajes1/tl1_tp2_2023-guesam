@@ -1,0 +1,5 @@
+2f) Respuestas
+
+- No puedo ver el archivo tp2_1_2.c porque se encuentra en otra rama que en este momento se no está activa.
+- Después de ejecutar el comando por segunda vez, se puede ver que ahora la rama main está ubicada arriba de la rama Opción_2.
+- Luego de utilizar el comando main los puntos de la rama main y la rama Opcion_2 se unieron con líneas.
